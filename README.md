@@ -1,6 +1,6 @@
-# 1ELE713_SEM10_Assignm1_Modelling
+# 1ELE713_SEM12_Assignm2_Fluidic_Systems
 
-A Lista de exercícios sobre modelagem de sistemas mecânicos e eletônicos encontra-se no arquivo 1ELE713-Sem10-Assignm1-Mechnical_and_electrical_systems_modelling-Lista1.pdf neste repositório.
+A Lista de exercícios sobre modelagem de sistema fluídicos com vasos comunicantes encontra-se no arquivo 1ELE713-Sem12-Assignm1-LiquidLevelSystems-Lista1.pdf, neste repositório.
 
 Observações:
 
